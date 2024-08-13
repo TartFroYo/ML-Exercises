@@ -12,7 +12,7 @@ Visual Story-telling part 1
 
 Visual Story-telling part 2
 
-Clustering and Dimensionality Reduction
+(Clustering and Dimensionality Reduction)[https://github.com/TartFroYo/ML-Exercises/blob/main/Clustering_and_Dimensionality_Reduction.ipynb]
 
 Market Segmentation
 
