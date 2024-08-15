@@ -2,20 +2,4 @@
 
 **Homework Solutions:**
 
-[Probability](https://github.com/TartFroYo/ML-Exercises/blob/main/MLProbabilityExercise.ipynb)
-
-[Billboard Top 100](https://colab.research.google.com/drive/19u4SLHzH8txVTUlCZ1Gi1MXYjGmdth8U?authuser=5#scrollTo=gXdHyRhT0nzS)
-
-Visual Story-telling part 1
-
-Visual Story-telling part 2
-
-[Clustering and Dimensionality Reduction](https://github.com/TartFroYo/ML-Exercises/blob/main/Clustering_and_Dimensionality_Reduction.ipynb)
-
-Market Segmentation
-
-The Reuters Corpus
-
-Association Rule Mining
-
-Image Classification with Neural Networks
+[ML Exercises 1-9](https://github.com/TartFroYo/ML-Exercises/blob/main/STA_380_Part_2_ML_Exercises_Eshaan_Arora%2C_Aileen_Li%2C_Andrew_White.ipynb)
