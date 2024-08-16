@@ -1,5 +1,6 @@
 # ML-Exercises
-By: Eshaan Arora, Andrew White, and Aileen Li \
+By: Eshaan Arora, Andrew White, and Aileen Li 
+
 
 **Homework Solutions:**
 
